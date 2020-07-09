@@ -1,16 +1,18 @@
-### Hi there 👋
+<h3 align="center">👋 Hello! I'm Abdelrahman Bayoumi.</h3>
 
-<!--
-**AbdelrahmanBayoumi/AbdelrahmanBayoumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 💻 I’m currently working [Prayer Times Website](https://prayer-times-bayoumi.herokuapp.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 I’m currently learning MEAN Stack
+
+- 🎞️ I publish videos in my [Youtube Chennel](https://www.youtube.com/channel/UCuj-PqkIKq8of9bDM5B2JpA)
+
+- 💬 Ask me about JavaFX, Desktop Apps and JavaScript.
+
+- 📫 How to reach me:  <a href="https://www.linkedin.com/in/abdelrahman-bayoumi/">LinkedIn</a> and <a href="https://twitter.com/Abdelrahman_B1">Twitter</a>.
+
+
+---
+<h6 align="center">سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ</h6>
+
