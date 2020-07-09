@@ -2,7 +2,7 @@
 
 ---
 
-- 💻 I’m currently working [Prayer Times Website](https://prayer-times-bayoumi.herokuapp.com/)
+- 💻 I’m currently working on [Prayer Times Website](https://prayer-times-bayoumi.herokuapp.com/)
 
 - 📚 I’m currently learning MEAN Stack
 
