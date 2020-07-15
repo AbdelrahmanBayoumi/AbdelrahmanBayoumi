@@ -15,3 +15,7 @@
 ---
 <h6 align="center">سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ</h6>
 
+<br>
+
+[![HitCount](http://hits.dwyl.com/AbdelrahmanBayoumi/AbdelrahmanBayoumi.svg)](http://hits.dwyl.com/AbdelrahmanBayoumi/AbdelrahmanBayoumi)
+
