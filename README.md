@@ -38,7 +38,7 @@ you can always contact me at: <br>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
 
   <div>
-    <img align='right' src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanBayoumi&theme=dracula&show_icons=true&count_private=true">
+    <img align='right' src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanBayoumi&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true">
    
 
 ### Languages and Tools:  
