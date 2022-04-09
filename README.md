@@ -19,6 +19,51 @@
 
 - 💬 Ask me about JavaFX, Desktop Apps and JavaScript.
 
+
+
+<h3>
+<details>
+<summary>📊 Show Profile Statistics</summary>
+ 
+ ## 💳 Github Profile Summary Card
+ 
+ <div align=center>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdelrahmanBayoumi&theme=github_dark)
+  
+ </div>
+ 
+ ## ⏱ Streak Stats
+ 
+ <div align=center>
+  
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbdelrahmanBayoumi&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+
+ </div>
+ 
+ 
+ ## 📈 Activity Graph
+ 
+ [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AbdelrahmanBayoumi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+ ## 📊 Most Used Language
+ 
+ <div align=center>
+  
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanBayoumi)]()  
+  
+ </div>
+ 
+ ## 🏆 Profile Trophies 
+
+<div align=center>
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbdelrahmanBayoumi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
+ 
+</details>
+</h3>
 <br> 
 
 ## 🙋‍♂️ Connect with me
