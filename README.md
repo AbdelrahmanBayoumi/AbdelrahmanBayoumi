@@ -17,15 +17,19 @@
 
 - 🎞️ I publish videos in my [Youtube Chennel](https://www.youtube.com/@bayoumi-tech)
 
-- 💬 Ask me about JavaFX, Desktop Apps and JavaScript.
+- 💬 Ask me about Desktop Apps (JavaFX), JavaScript and Node.js.
 
 
 
-<h3>
-<details>
-<summary>📊 Show Profile Statistics</summary>
+<!-- <h3>
+<details> -->
+<!-- <summary>📊 Show Profile Statistics</summary> -->
+
+<br>
+
+## 📊 Show Profile Statistics
  
- ## 💳 Github Profile Summary Card
+ ### 💳 Github Profile Summary Card
  
  <div align=center>
   
@@ -33,7 +37,7 @@
   
  </div>
  
- ## ⏱ Streak Stats
+ ### ⏱ Streak Stats
  
  <div align=center>
   
@@ -41,7 +45,7 @@
 
  </div>
  
- ## ✨ Git Stars
+ ### ✨ Git Stars
  
  <div align=center>
  
@@ -50,11 +54,11 @@
  </div>
  
  
- ## 📈 Activity Graph
+ ### 📈 Activity Graph
  
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdelrahmanBayoumi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
- ## 📊 Most Used Language
+ ### 📊 Most Used Language
  
  <div align=center>
   
@@ -62,7 +66,7 @@
   
  </div>
  
- ## 🏆 Profile Trophies 
+ ### 🏆 Profile Trophies 
 
 <div align=center>
  
@@ -70,8 +74,8 @@
   
 </div>
  
-</details>
-</h3>
+<!-- </details>
+</h3> -->
 <br> 
 
 ## 🙋‍♂️ Connect with me
