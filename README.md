@@ -13,9 +13,9 @@
 
 - 💻 I’m currently working on [Azkar App 🤲🏻](https://azkar-site.web.app/)
 
-- 📚 I’m currently learning MERN Stack
+- 📚 I’m currently learning MEAN Stack
 
-- 🎞️ I publish videos in my [Youtube Chennel](https://www.youtube.com/channel/UCuj-PqkIKq8of9bDM5B2JpA)
+- 🎞️ I publish videos in my [Youtube Chennel](https://www.youtube.com/@bayoumi-tech)
 
 - 💬 Ask me about JavaFX, Desktop Apps and JavaScript.
 
@@ -52,7 +52,7 @@
  
  ## 📈 Activity Graph
  
- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AbdelrahmanBayoumi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdelrahmanBayoumi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  ## 📊 Most Used Language
  
@@ -90,7 +90,7 @@ you can always contact me at: <br>
 </div>
 
 
-<h6 align="center">سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ</h6>
+<h5 align="center">سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ</h5>
 
 ---
 
