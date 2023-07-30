@@ -62,7 +62,7 @@
  
  <div align=center>
   
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanBayoumi)]()  
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanBayoumi&hide=CSS,Jupyter%20Notebook&langs_count=6&layout=donut&size_weight=0.5&count_weight=0.5)]()  
   
  </div>
  
