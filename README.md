@@ -15,7 +15,7 @@
 
 - 📚 I’m currently learning MEAN Stack
 
-- 🎞️ I publish videos in my [Youtube Chennel](https://www.youtube.com/@bayoumi-tech)
+- 🎞️ I publish videos in my [Youtube Channel](https://www.youtube.com/@bayoumi-tech)
 
 - 💬 Ask me about Desktop Apps (JavaFX), JavaScript and Node.js.
 
