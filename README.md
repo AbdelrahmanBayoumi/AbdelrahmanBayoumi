@@ -19,6 +19,8 @@
 
 - 💬 Ask me about Desktop Apps (JavaFX), JavaScript and Node.js.
 
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1rfOxqMYpVsmp-QnfefRcQQhYS4PV94P9/edit?usp=sharing&ouid=112610804660027266986&rtpof=true&sd=true)
+
 
 
 <!-- <h3>
@@ -63,6 +65,9 @@
  <div align=center>
   
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanBayoumi&hide=CSS,Jupyter%20Notebook&langs_count=6&layout=donut&size_weight=0.5&count_weight=0.5)]()  
+
+Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
   
  </div>
  
