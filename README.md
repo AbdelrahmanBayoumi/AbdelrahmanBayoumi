@@ -47,14 +47,6 @@
 
  </div>
  
- ### ✨ Git Stars
- 
- <div align=center>
- 
- [![Git Stars](https://git-stars.com/share/embed/AbdelrahmanBayoumi.svg)](https://git-stars.com/user/AbdelrahmanBayoumi)
- 
- </div>
- 
  
  ### 📈 Activity Graph
  
