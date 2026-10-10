@@ -32,18 +32,20 @@
   />
 </a>
 
-- 💻 I’m currently working on [Azkar App 🤲🏻](https://azkar-site.web.app/)
+- 🔭 Full Stack Engineer at **[Ultatel](https://www.ultatel.com/)**, building real-time communications & distributed cloud systems.
 
-- 🎞️ I publish tech videos on my [YouTube Channel](https://www.youtube.com/@bayoumi-tech)
+- 💻 Creator of **[Azkar App](https://azkar-site.web.app/)** (53K+ downloads, 2K+ MAU) & open-source tools.
 
-- 💬 Ask me about **Node.js**, **Angular**, and full-stack development.
+- 🎞️ I publish tech videos on my [YouTube Channel](https://www.youtube.com/@bayoumi-tech).
 
-- 🛠️ Some of my projects:
-  - [Azkar App](https://azkar-site.web.app/) - Desktop application with 10k+ downloads for Muslim prayer times 🕌, Morning and Evening Azkar 🤲, and scheduled notifications for random Azkar.
-  - [Arabic Services](https://seen-arabic.github.io/Arabic-Services/) - An NPM package for Arabic text processing with 2k+ downloads and a showcase website.
-  - [PlayStation Café & Restaurant System](https://codeclinic-eg.github.io/#/projects/1) - Built a cloud-based and offline management system for 80+ users.
+- 💬 Ask me about **Angular**, **TypeScript**, **Node.js / NestJS**, **C# / .NET**, and **Electron**.
 
-📄 Learn more about my experience: [Resume](https://docs.google.com/document/d/1rfOxqMYpVsmp-QnfefRcQQhYS4PV94P9/edit?usp=sharing&ouid=112610804660027266986&rtpof=true&sd=true)
+- 🛠️ Featured Projects:
+  - [Azkar App](https://azkar-site.web.app/) - Modular desktop app with 53K+ downloads & 2K+ MAU for prayer times, Azkar, and scheduled notifications.
+  - [Arabic Services](https://seen-arabic.github.io/Arabic-Services/) - Open-source NPM packages for Arabic NLP & text processing with 5K+ downloads.
+  - [Offline-First Restaurant POS & Cloud Sync](https://codeclinic-eg.github.io/#/projects/1) - High-availability POS & sync hub deployed across 120+ clients in 6 countries.
+
+📄 Learn more about my experience: [Resume](https://drive.google.com/file/d/1bufimhHlj4LBhtALYN-yKjziJtonZ6_3/view?usp=sharing) | [Portfolio](https://abdelrahmanbayoumi.github.io/)
 
 
 ## 🙋‍♂️ Connect with me
